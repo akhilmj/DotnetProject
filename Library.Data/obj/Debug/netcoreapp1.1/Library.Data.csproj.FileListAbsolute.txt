@@ -1,0 +1,14 @@
+E:\MVC\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.deps.json
+E:\MVC\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.dll
+E:\MVC\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.AssemblyInfo.cs
+E:\MVC\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.csprojResolveAssemblyReference.cache
+E:\MVC\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.pdb
+E:\MVC\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.dll
+E:\MVC\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.pdb
+D:\Workarea\14-08-2020\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.deps.json
+D:\Workarea\14-08-2020\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.dll
+D:\Workarea\14-08-2020\Library\Library.Data\bin\Debug\netcoreapp1.1\Library.Data.pdb
+D:\Workarea\14-08-2020\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.csprojResolveAssemblyReference.cache
+D:\Workarea\14-08-2020\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.AssemblyInfo.cs
+D:\Workarea\14-08-2020\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.dll
+D:\Workarea\14-08-2020\Library\Library.Data\obj\Debug\netcoreapp1.1\Library.Data.pdb
